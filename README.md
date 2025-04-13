@@ -21,6 +21,12 @@ This tool synchronizes data between a MySQL database and Kintone. It supports bo
 - Access to a MySQL database
 - Kintone account with API access
 
+## Background
+
+This project was developed in response to the need for migrating a web application that operates on PHP and MySQL to Kintone. The migration plan involved creating a Kintone app for each MySQL table.
+
+Given the large number of tables, it was not feasible to migrate all data at once. Therefore, a parallel operation was necessary during the migration period. This required synchronizing data between MySQL and Kintone to ensure consistency and accuracy throughout the transition.
+
 ## Installation
 
 1. Clone the repository:
