@@ -16,6 +16,7 @@ This tool synchronizes data between a MySQL database and Kintone. It supports bo
 ## Requirements
 
 - PHP 7.0 or higher (Tested with PHP 8.0.30)
+- MariaDB (Tested with MariaDB 10.6.21)
 - Composer (for dependency management)
 - Access to a MySQL database
 - Kintone account with API access
