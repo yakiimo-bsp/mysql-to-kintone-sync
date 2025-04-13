@@ -32,8 +32,8 @@ Given the large number of tables, it was not feasible to migrate all data at onc
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/mysql-to-kintone.git
-   cd mysql-to-kintone
+   git clone https://github.com/yourusername/mysql-to-kintone-sync.git
+   cd mysql-to-kintone-sync
    ```
 
 2. Install dependencies (if any):
@@ -66,7 +66,7 @@ Given the large number of tables, it was not feasible to migrate all data at onc
 Run the script from the command line:
 
 ```bash
-php mysql-to-kintone.php
+php mysql-to-kintone-sync.php
 ```
 
 The script will connect to the MySQL database, retrieve data based on the queries defined in the `.env` file, and send it to Kintone.
