@@ -32,7 +32,7 @@ Given the large number of tables, it was not feasible to migrate all data at onc
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/mysql-to-kintone-sync.git
+   git clone https://github.com/yakiimo-bsp/mysql-to-kintone-sync.git
    cd mysql-to-kintone-sync
    ```
 
