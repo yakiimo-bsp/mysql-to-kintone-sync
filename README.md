@@ -77,3 +77,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [Kintone API Documentation](https://developer.kintone.io/hc/en-us)
 - [MySQL Documentation](https://dev.mysql.com/doc/)
+
+---
+Made with ❤️ for the Kintone community 
